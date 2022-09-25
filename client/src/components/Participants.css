@@ -1,0 +1,16 @@
+.participants{
+    width:20vw;
+    padding:20px;
+    background: rgb(231, 238, 231);
+}
+
+.participants-cont{
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-top:20px;
+    overflow-y: scroll;}
+
+.single-particiapnt{
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+}
